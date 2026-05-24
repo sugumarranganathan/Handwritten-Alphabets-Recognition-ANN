@@ -1,1 +1,5 @@
-Commit changes
+streamlit
+tensorflow-cpu
+numpy
+Pillow
+protobuf==3.20.*
